@@ -1,7 +1,7 @@
 {
-  "name": "react-hacker",
+  "name": "react-spotify-media-player",
   "version": "3.0.0",
-  "description": "A simple React starter that's perfect for messing around. Comes with Babel, Emotion CSS in JS, ESlint, and Prettier.",
+  "description": "",
   "main": "index.js",
   "homepage": "https://phucthinh12121999.github.io/react-spotify-media-player",
   "scripts": {
@@ -10,7 +10,7 @@
     "postinstall": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "author": "Daniel Zuzevich",
+  "author": "Thinh Nguyen",
   "license": "MIT",
   "dependencies": {
     "@emotion/core": "^10.0.10",
